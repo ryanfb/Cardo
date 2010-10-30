@@ -1,0 +1,12 @@
+Font Installation Instructions
+
+Windows 95/98/Me
+· using an unzip utility, extract the font and manual to a location that you can find later (it doesn't matter where; can be a temporary folder such as C:\temp, a folder you use for storing fonts, whatever)
+· activate the Start button on the taskbar
+· choose Settings/Control Panel; a window will open
+· double-click on the Fonts icon and a new window will open
+· choose File/Install New Font
+· in the dialog box that appears, navigate to the drive and directory where you extracted the font; Windows will search for font names
+· double-click on Cardo
+· close the Font window
+· read or print the manual for additional information about using Cardo
